@@ -1,4 +1,9 @@
-## Hi there 👋
+## Sup! I'm Mian and I code!
+### A basic basic description of who I am
+
+
+- 🧑‍💻 My best known coding languages: Lua, and Java
+- 🎮 Games I've modded for: Minecraft, Ravenfield
 
 <!--
 **MianReplicate/MianReplicate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
