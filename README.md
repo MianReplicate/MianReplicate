@@ -2,6 +2,21 @@
 ### So... what do you do?
 I'm a programmer (Java, C#, Lua, TypeScript), writer (fanfiction), and gamer (Deadlock, Ravenfield, RimWorld, Minecraft)!
 
+### What are some of your achievements?
+
+[![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
+
+I've participated in the [Athena Award](https://athena.hackclub.com) from Hack Club and attended [Parthenon](https://parthenon.hackclub.com) in New York for 2025 from Nov 14-16!
+
+Here's me there!
+
+<img src="./meatparthenon.png" width="200" />
+
+[View the projects I created for the Athena Award!](https://athena.hackclub.com/award?id=XVmtGCKR)
+<a href="https://athena.hackclub.com/award?id=XVmtGCKR">
+  <img src="./award.png" width="700" />
+</a>
+
 ### What are your most popular projects?
 
 [Lifesteal - A Minecraft mod inspired by the original Lifesteal SMP plugin where killing other players steals their hearts for your own gain](https://github.com/MianReplicate/Lifesteal)
@@ -12,7 +27,7 @@ I'm a programmer (Java, C#, Lua, TypeScript), writer (fanfiction), and gamer (De
 
 <img width="699" height="379" alt="image" src="https://github.com/user-attachments/assets/d8862fcb-e657-4380-9b40-08e9320a55b6" />
 
-[Topic of Gender is a RimWorld mod (C#) that adds a complex perception of gender revolving around transphobia, cisphobia, and chasers. It introduces masculinity and femininity into the game with clothes, body types, etc impacting a pawn's gender presentation.](https://github.com/MianReplicate/Gender-Acceptance)
+[Topic of Gender - A RimWorld mod (C#) that adds a complex perception of gender revolving around transphobia, cisphobia, and chasers. It introduces masculinity and femininity into the game with clothes, body types, etc impacting a pawn's gender presentation.](https://github.com/MianReplicate/Gender-Acceptance)
 
 <img width="637" height="358" alt="image" src="https://github.com/user-attachments/assets/230005fb-9c6b-42a6-a71e-b9fe2b4d5e22" />
 
